@@ -1,0 +1,1 @@
+# Drone-bi-rotor----Simulation-et-detection-de-defauts-par-IA
